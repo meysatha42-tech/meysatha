@@ -1,0 +1,5 @@
+{
+  "name": "BotArchitect: AI Chatbot Builder",
+  "description": "A comprehensive React application that demonstrates the core components of chatbot development using Google Gemini API. Configure purposes, define personalities, and interact in real-time.",
+  "requestFramePermissions": []
+}
